@@ -1,4 +1,4 @@
-<h1>Uma calculadora para realizar calculos matemáticos feita em Javascript!</h1>
+<h1>Uma calculadora para realizar cálculos matemáticos feita em Javascript!</h1>
 <hr>
 <h1>Tecnologias Utilizadas:</h1>
 <ul>
