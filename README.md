@@ -1,6 +1,6 @@
 # Calculator
 
-Uma calculadora para realizar cálculos matemáticos feita em Javascript!
+Uma calculadora para realizar cálculos matemáticos simples desenvolvida em Javascript!
 
 ### Tecnologias Utilizadas:
 <ul>
@@ -9,3 +9,5 @@ Uma calculadora para realizar cálculos matemáticos feita em Javascript!
   <li>BOOTSTRAP</li>
   <li>JAVASCRIPT</li>
 </ul>
+
+### Este site é responsivo à dispositivos mobile
